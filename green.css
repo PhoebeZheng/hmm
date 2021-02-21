@@ -18,4 +18,13 @@ h2 {
 body {
     background-color: 98FB98;
     color: 008000;
+    font-family: monaco, cursive;
+    font-size: 16px;
+    font-style: normal;
+    outline-style: double;
+    outline-color: Ivory;
+    margin: 30px;
+    border: 2px solid green
+    border-radius: 10px
+    
 }
